@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sL -o C:/Development/ATransformer/docs/attention_is_all_you_need.pdf https://arxiv.org/pdf/1706.03762)"
+    ]
+  }
+}
